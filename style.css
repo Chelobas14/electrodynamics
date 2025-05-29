@@ -1,0 +1,12 @@
+canvas{
+	background: rgb(0, 0, 0);
+	position: relative;
+}
+body{
+	background-color: #212121;
+	margin: 0;
+}
+*{
+	box-sizing: border-box;
+	overflow: hidden;
+}
